@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1yIDT9GWQvBTcwr4cZFoco-9YccHbTv6m/view](https://drive.google.com/file/d/1yIDT9GWQvBTcwr4cZFoco-9YccHbTv6m/view)
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **99% of my coding knowledge comes from Stack Overflow. The other 1% is probably wrong too.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

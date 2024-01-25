@@ -1,7 +1,8 @@
-![logo](https://github.com/nigelperis/nigelperis/blob/main/nigel%20banner.png)
+![MasterHead](https://github.com/nigelperis/nigelperis/blob/main/nigel%20banner.png)
 <h3 align="center">A highly motivated web developer with a genuine passion for learning and exploring</h3>
-![Nigel GIF](./nigel.gif)
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <a href="https://twitter.com/peris_nigel" target="blank"><img src="https://img.shields.io/twitter/follow/peris_nigel?logo=twitter&style=for-the-badge" alt="peris_nigel" /></a> </p>
+
 
 - 👨‍💻 All of my projects are available at [nigel-portfolio-hxvu.onrender.com](nigel-portfolio-hxvu.onrender.com)
 

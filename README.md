@@ -6,9 +6,9 @@
 
 - 👨‍💻 All of my projects are available [here!](https://nigel-portfolio-hxvu.onrender.com/)
 
-- 📫 Reach me at [**Email**](nperis27@gmail.com)
+- 📫 Reach me at [Email](nperis27@gmail.com)
 
-- 📄 Know about my experiences [**My Resume**](https://drive.google.com/file/d/1yIDT9GWQvBTcwr4cZFoco-9YccHbTv6m/view](https://drive.google.com/file/d/1yIDT9GWQvBTcwr4cZFoco-9YccHbTv6m/view)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1yIDT9GWQvBTcwr4cZFoco-9YccHbTv6m/view)
 
 - ⚡ Fun fact: **99% of my coding knowledge comes from Stack Overflow. The other 1% is probably wrong too.**
 

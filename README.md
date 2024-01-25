@@ -1,6 +1,6 @@
 ![logo](https://github.com/nigelperis/nigelperis/blob/main/nigel%20banner.png)
 <h3 align="center">A highly motivated web developer with a genuine passion for learning and exploring</h3>
-<img align='right' alt='code' width='400' src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fguruprasad.codes%2F&psig=AOvVaw0JwcmAt-sMoRGxikUPCccj&ust=1706249396408000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLjJm7zw94MDFQAAAAAdAAAAABAI'>
+![Nigel GIF](./nigel.gif)
 <p align="left"> <a href="https://twitter.com/peris_nigel" target="blank"><img src="https://img.shields.io/twitter/follow/peris_nigel?logo=twitter&style=for-the-badge" alt="peris_nigel" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [nigel-portfolio-hxvu.onrender.com](nigel-portfolio-hxvu.onrender.com)

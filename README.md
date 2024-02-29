@@ -1,5 +1,9 @@
 ![MasterHead](https://github.com/nigelperis/nigelperis/blob/main/nigel%20banner.png)
-<h3 align="center">A highly motivated web developer with a genuine passion for learning and exploring</h3>
+<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&width=435&lines=Hey!+%F0%9F%91%8B%F0%9F%8F%BB%2C+This+is+Nigel;Back+End+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a> </p>
+
+
+
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <a href="https://twitter.com/peris_nigel" target="blank"><img src="https://img.shields.io/twitter/follow/peris_nigel?logo=twitter&style=for-the-badge" alt="peris_nigel" /></a> </p>
 

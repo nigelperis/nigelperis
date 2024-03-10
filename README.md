@@ -3,7 +3,8 @@
 ![MasterHead](https://github.com/nigelperis/nigelperis/blob/main/nigel%20banner.png)
 <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&width=435&lines=Hey!+%F0%9F%91%8B%F0%9F%8F%BB%2C+This+is+Nigel;Back+End+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a> </p>
 
-<img align="right" alt="Coding" height="260" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" height="260" width="400" src="https://github.com/demartini/demartini/blob/master/code.gif">
+
 <p align="left"> <a href="https://twitter.com/peris_nigel" target="blank"><img src="https://img.shields.io/twitter/follow/peris_nigel?logo=twitter&style=for-the-badge" alt="peris_nigel" /></a> </p>
 
 - 👨‍💻 [𝘏𝘦𝘳𝘦'𝘴](https://nigel-portfolio-hxvu.onrender.com/) 𝘸𝘩𝘦𝘳𝘦 𝘢𝘭𝘭 𝘮𝘺 𝘱𝘳𝘰𝘫𝘦𝘤𝘵𝘴 𝘩𝘢𝘯𝘨 𝘰𝘶𝘵 - 𝘵𝘢𝘬𝘦 𝘢 𝘱𝘦𝘦𝘬!<img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/>

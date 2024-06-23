@@ -1,7 +1,7 @@
 # Welcome!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 ![MasterHead](https://github.com/nigelperis/nigelperis/blob/main/nigel%20banner.png)
-<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&width=435&lines=Hey!+%F0%9F%91%8B%F0%9F%8F%BB%2C+This+is+Nigel;Back+End+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a> </p>
+<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&width=435&lines=Hey!+%F0%9F%91%8B%F0%9F%8F%BB%2C+This+is+Nigel;Full-Stack+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a> </p>
 
 <img align="right" alt="Coding" height="260" width="400" src="https://github.com/demartini/demartini/blob/master/code.gif">
 

@@ -11,10 +11,6 @@
 
 - 📫 𝘏𝘪𝘵 𝘮𝘦 𝘶𝘱 𝘢𝘵 [𝘌𝘮𝘢𝘪𝘭](nperis27@gmail.com) - 𝘮𝘺 𝘪𝘯𝘣𝘰𝘹 𝘪𝘴 𝘳𝘦𝘢𝘥𝘺 𝘧𝘰𝘳 𝘢𝘯 𝘢𝘥𝘷𝘦𝘯𝘵𝘶𝘳𝘦!
 
-- 📄 𝘜𝘯𝘷𝘦𝘪𝘭 𝘔𝘺 𝘌𝘱𝘪𝘤 𝘑𝘰𝘶𝘳𝘯𝘦𝘺 [𝘔𝘺 𝘙𝘦𝘴𝘶𝘮𝘦](https://drive.google.com/file/d/1yIDT9GWQvBTcwr4cZFoco-9YccHbTv6m/view)
-
-- ⚡ "𝐄𝐯𝐞𝐫𝐲𝐭𝐡𝐢𝐧𝐠 𝐭𝐡𝐚𝐭 𝐡𝐚𝐩𝐩𝐞𝐧𝐬 𝐨𝐧𝐜𝐞 𝐜𝐚𝐧 𝐧𝐞𝐯𝐞𝐫 𝐡𝐚𝐩𝐩𝐞𝐧 𝐚𝐠𝐚𝐢𝐧. 𝐁𝐮𝐭 𝐞𝐯𝐞𝐫𝐲𝐭𝐡𝐢𝐧𝐠 𝐭𝐡𝐚𝐭 𝐡𝐚𝐩𝐩𝐞𝐧𝐬 𝐭𝐰𝐢𝐜𝐞 𝐰𝐢𝐥𝐥 𝐬𝐮𝐫𝐞𝐥𝐲 𝐡𝐚𝐩𝐩𝐞𝐧 𝐚 𝐭𝐡𝐢𝐫𝐝 𝐭𝐢𝐦𝐞." - 𝐏𝐚𝐮𝐥𝐨 𝐂𝐨𝐞𝐥𝐡𝐨
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/peris_nigel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="peris_nigel" height="30" width="40" /></a>

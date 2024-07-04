@@ -9,9 +9,9 @@
 
 - 👨‍💻 [𝘏𝘦𝘳𝘦'𝘴](https://nigel-portfolio-hxvu.onrender.com/) 𝘸𝘩𝘦𝘳𝘦 𝘢𝘭𝘭 𝘮𝘺 𝘱𝘳𝘰𝘫𝘦𝘤𝘵𝘴 𝘩𝘢𝘯𝘨 𝘰𝘶𝘵 - 𝘵𝘢𝘬𝘦 𝘢 𝘱𝘦𝘦𝘬!<img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/>
 
-- 📫 𝘏𝘪𝘵 𝘮𝘦 𝘶𝘱 𝘢𝘵 [𝘌𝘮𝘢𝘪𝘭](nperis27@gmail.com) - 𝘮𝘺 𝘪𝘯𝘣𝘰𝘹 𝘪𝘴 𝘳𝘦𝘢𝘥𝘺 𝘧𝘰𝘳 𝘢𝘯 𝘢𝘥𝘷𝘦𝘯𝘵𝘶𝘳𝘦!
+- 📫 𝘏𝘪𝘵 𝘮𝘦 𝘶𝘱 𝘢𝘵 [𝘌𝘮𝘢𝘪𝘭](nperis27@gmail.com)
 
--  📄 𝘜𝘯𝘷𝘦𝘪𝘭 𝘔𝘺 𝘌𝘱𝘪𝘤 𝘑𝘰𝘶𝘳𝘯𝘦𝘺 [𝘔𝘺 𝘙𝘦𝘴𝘶𝘮𝘦](https://drive.google.com/file/d/1yIDT9GWQvBTcwr4cZFoco-9YccHbTv6m/view)
+-  📄 [𝘔𝘺 𝘙𝘦𝘴𝘶𝘮𝘦](https://drive.google.com/file/d/1yIDT9GWQvBTcwr4cZFoco-9YccHbTv6m/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

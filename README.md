@@ -9,8 +9,6 @@
 
 - 📫 𝘏𝘪𝘵 𝘮𝘦 𝘶𝘱 𝘢𝘵 [𝘌𝘮𝘢𝘪𝘭](nperis27@gmail.com)
 
--  📄 [𝘔𝘺 𝘙𝘦𝘴𝘶𝘮𝘦](https://drive.google.com/file/d/1yIDT9GWQvBTcwr4cZFoco-9YccHbTv6m/view)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/peris_nigel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="peris_nigel" height="30" width="40" /></a>

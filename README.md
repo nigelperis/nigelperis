@@ -34,11 +34,10 @@ const Nigel = {
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
 </div>
 
-<div align="center">
-  
-  ![Snake animation](https://github.com/s-shemmee/s-shemmee/blob/output/github-contribution-grid-snake-dark.svg)  
+<div align="center" 
   
   ---
-  <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="60"> <em><b>Always up for a chat about web development, check out some of my work on Github!</b> :)</em>
+  <br>
+<em><b>Always up for a chat about web development, check out some of my work on Github!</b> :)</em>
 
 </div>
